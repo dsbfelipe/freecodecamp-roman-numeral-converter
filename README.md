@@ -15,6 +15,10 @@ An application that converts hindu-arabic numbers into roman numerals using HTML
 
 The objective of this project was to make an app similar to "https://roman-numeral-converter.freecodecamp.rocks" passing the test's requirements, practicing **Recursion**, learned on the second module of the course.
 
+### **Acknowledgments**
+
+For this project i've used this design from Ceptari Tyas on Dribbble as inspiration: https://dribbble.com/shots/15144234-Binary-Converter-Darkmode
+
 <br>
 
 ![Project's screenshot](screenshots/screenshot.png)
